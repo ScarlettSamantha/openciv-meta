@@ -17,7 +17,7 @@ v0.1.0: Development
     - Project management
     - gitops
     - design docs
-    - readme
+    - [[readme]]
 
 v0.2.0: Pre-Alpha
     - 5 civs
