@@ -41,6 +41,7 @@
 * 🗄️ [SQLite3](https://www.sqlite.org/) - Lightweight, serverless database for small apps and prototyping.
 * 🐘 [PostgreSQL](https://www.postgresql.org/) - Robust, open-source database for complex queries and scalability.
 * [Godu](https://github.com/viktomas/godu) - Windirstat disk usage tool but with cool cli.
+* Keychain - #Joris Recommandation its great.
 
 
 ## Plugins
