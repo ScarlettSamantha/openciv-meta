@@ -18,7 +18,7 @@ If any of these checks fail, the commit will be blocked, giving you a chance to 
 1. **Git Hook Forwarding:** The `.git/hooks/pre-commit` file in your repository acts as a trigger. It forwards the call to a script located at `hooks/pre-commit.sh`.
 2. **Script Execution:** The `hooks/pre-commit.sh` script then forwards the call to `pre-commit.py`, which performs all the necessary checks and tasks.
 
-This setup keeps the `.git/hooks/` directory clean and allows for easier updates to the hook logic by simply modifying the `hooks/pre-commit.sh` script in your project directory.
+This setup keeps the `.git/hooks/` directory clean and allows for easier updates to the hook logic by simply modifying the `hooks/pre-commit.sh` script.
 
 ## Configuration Options
 
@@ -46,6 +46,9 @@ To start contributing:
 
 If all checks pass, your commit will go through. If not, fix any issues the script reports and try again.
 
-## Final Notes
+## Bypassing
+To bypass the pre-commit checks (though it's generally not recommended), you can add the `--no-verify` flag to your commit command like this:
 
-This setup helps keep our codebase clean and maintainable, so your contributions are easier for everyone to review and build upon. If you encounter any issues with the pre-commit process or have suggestions for improvements, feel free to reach out. Let's work together to keep the project moving forward smoothly!
+```git commit --no-verify```
+
+This will allow you to commit your changes without running the `pre-commit` hook. Use this option sparingly, as skipping the checks can introduce issues into the codebase. But sometimes, if you know what you’re doing, it can be handy for quick, experimental commits.

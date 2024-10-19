@@ -6,7 +6,7 @@
 
 ## Project
 
-- [Roadmap](meta/roadmap.md) - A rough roadmap (without timelines as this is a hobby project).
+- [Roadmap](Meta/roadmap.md) - A rough roadmap (without timelines as this is a hobby project).
 - [Contribution Guide](CONTRIBUTE.md) - Guidelines for contributing.
 - [Changelog](CHANGELOG.md) - Automatically generated changelog.
 - [File Structure](https://github.com/ScarlettSamantha/openciv-meta/blob/main/File%20Structure.md) - The project structure

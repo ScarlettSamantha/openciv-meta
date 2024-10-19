@@ -10,6 +10,8 @@
 * 📋 [Planka](https://github.com/plankanban/planka) - Project management/Kanban board
 * 🐋 [Docker](https://www.docker.com/) - Container host *(Partially open source)*
 * 👩‍💻 [Kubuntu](https://kubuntu.org/) - OS, Great compatibility, Great UI
+* 📽️ [OBS](https://github.com/obsproject/obs-studio/wiki/install-instructions#linux) & 📹  [Virtual webcam](https://github.com/obsproject/obs-studio/wiki/install-instructions#prerequisites-for-all-versions) - Recording/Broadcasting, Near standard.
+* 
 
 # Extensions/Libs
 
@@ -38,6 +40,13 @@
 * 🐧 [Ubuntu-Server](https://ubuntu.com/download/server) - Light, Fast, server OS
 * 🗄️ [SQLite3](https://www.sqlite.org/) - Lightweight, serverless database for small apps and prototyping.
 * 🐘 [PostgreSQL](https://www.postgresql.org/) - Robust, open-source database for complex queries and scalability.
+* [Godu](https://github.com/viktomas/godu) - Windirstat disk usage tool but with cool cli.
+
+
+## Plugins
+
+[Background removal OBS ](https://obsproject.com/forum/resources/background-removal-virtual-green-screen-low-light-enhance.1260/)
+
 
 \* 🛠️ Made by Microsoft, so privacy beware (run in a sandbox)  
 \** 🔒 Not open source  
