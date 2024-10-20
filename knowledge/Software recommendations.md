@@ -42,6 +42,8 @@
 * 🐘 [PostgreSQL](https://www.postgresql.org/) - Robust, open-source database for complex queries and scalability.
 * [Godu](https://github.com/viktomas/godu) - Windirstat disk usage tool but with cool cli.
 * Keychain - #Joris Recommandation its great.
+* Autokey - Replaces your automatic mistakes by tracking keyboard input
+* 
 
 
 ## Plugins
